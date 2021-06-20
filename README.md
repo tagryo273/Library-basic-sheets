@@ -5,5 +5,7 @@
 
 # 開発
 numpy == 1.19.5
+
 pandas == 1.1.5
+
 matplotlib == 3.2.2
